@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>Lathian Git remote 2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, odio. Ipsum quidem aut porro consectetur sint accusamus nulla omnis quaerat ipsa. Corporis vel voluptas explicabo cumque necessitatibus vero corrupti in!</p>
 </body>
 </html>
